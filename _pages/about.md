@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Science and Technology of China
+subtitle: University of Science and Technology of China. 2021212683@stu.hit.edu.cn.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2021212683@stu.hit.edu.cn</p>
+    <p></p>
     <p>Hefei, Anhui</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
